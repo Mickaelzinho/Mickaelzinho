@@ -25,6 +25,17 @@ Atualmente estou focado em **aprender, desenvolver projetos e evoluir cada vez m
 🚀 Sempre criando algo novo
 📚 Sempre aprendendo
 💻 Transformando ideias em código
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
 ```
 
 ---
