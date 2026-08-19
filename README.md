@@ -109,7 +109,7 @@ Atualmente estou focado em **aprender, desenvolver projetos e evoluir cada vez m
 
 <div align="center">
 
-### 💙 Obrigado por visitar meu perfil!
+### 💜 Obrigado por visitar meu perfil!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A100F2,50:5A189A,100:000000&height=100&section=footer"/>
 </div>
