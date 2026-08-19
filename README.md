@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Mickael&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:3C096C,100:A100F2&height=200&section=header&text=Mickael&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
 # 👋 Olá! Eu sou o Mickael
 
@@ -111,6 +111,5 @@ Atualmente estou focado em **aprender, desenvolver projetos e evoluir cada vez m
 
 ### 💙 Obrigado por visitar meu perfil!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A100F2,50:5A189A,100:000000&height=100&section=footer"/>
 </div>
