@@ -1,16 +1,116 @@
-## Hi there 👋
+<!-- BANNER -->
 
-<!--
-**Mickaelzinho/Mickaelzinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D9FF&height=200&section=header&text=Mickael&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👋 Olá! Eu sou o Mickael
+
+### 💻 Desenvolvedor • 🚀 Entusiasta de Tecnologia • 📚 Sempre aprendendo
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Olá! Eu sou **Mickael**, apaixonado por tecnologia, programação e por transformar ideias em projetos.
+
+Atualmente estou focado em **aprender, desenvolver projetos e evoluir cada vez mais como desenvolvedor**.
+
+```text
+💡 Curioso por tecnologia
+🚀 Sempre criando algo novo
+📚 Sempre aprendendo
+💻 Transformando ideias em código
+```
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github,vscode&theme=dark" />
+
+</div>
+
+---
+
+## 🚀 O que estou fazendo atualmente
+
+* 🔭 Trabalhando em **projetos pessoais**
+* 🌱 Aprendendo e explorando **novas tecnologias**
+* 💡 Criando projetos para colocar meus conhecimentos em prática
+* 🎯 Buscando evoluir cada vez mais na programação
+* 🤝 Interessado em conhecer e colaborar com outros desenvolvedores
+
+---
+
+## 📊 Minhas estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mickaelzinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mickaelzinho&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mickaelzinho&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Minhas contribuições
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+[![Gráfico de atividade](https://github-readme-activity-graph.vercel.app/graph?username=Mickaelzinho\&theme=tokyo-night\&hide_border=true\&area=true)](https://github.com/Mickaelzinho)
+
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+
+<a href="https://github.com/Mickaelzinho">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Obrigado por visitar meu perfil!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6C63FF&height=100&section=footer"/>
+
+</div>
